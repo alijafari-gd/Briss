@@ -1,9 +1,8 @@
 A Simple Breathing app .
 
 preview : 
-.
-https://github.com/alijafari-gd/Briss/assets/112819193/fe719bc0-d9c6-467d-a70b-e0e097cce856
 
+![video_2024-01-05_10-28-33](https://github.com/alijafari-gd/Briss/assets/112819193/2d191d3f-4a34-4dbc-a4a2-435727e4e45a)
 
 
 
