@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/methodName"
+    android:layout_width="wrap_content"
+    android:layout_height="45dp"
+    android:gravity="center"
+    android:textColor="@color/foreground2"
+    android:textSize="19sp"
+    android:textStyle="bold"
+    tools:text="Method Name"
+    android:paddingHorizontal="25dp"
+    android:alpha="0"/>

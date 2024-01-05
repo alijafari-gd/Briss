@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircularProgressBarStyle">
+        <item name="cpb_background_progressbar_color">#00D8B6B6</item>
+        <item name="cpb_progress">75</item>
+        <item name="cpb_progress_direction">to_right</item>
+        <item name="cpb_round_border">true</item>
+        <item name="cpb_start_angle">0</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <!-- Add other common attributes here -->
+    </style>
+    <style name="descriptionSubtitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginVertical">5dp</item>
+    </style>
+</resources>

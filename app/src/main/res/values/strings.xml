@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Briss</string>
+    <string name="contentDescription_inhale_icon">inhaleIcon</string>
+    <string name="description">Description :</string>
+    <string name="inahleStateText">Inhale</string>
+    <string name="holdStateText">Hold</string>
+    <string name="exhaleStateText">Exhale</string>
+    <string name="sessionStartTip">Tap to start</string>
+    <string name="settingsButtonCD">Settings</string>
+    <string name="menuButtonCD">Menu</string>
+    <string name="usage">Usage:</string>
+    <string name="suggestion">Suggestion:</string>
+    <string name="benefit">Benefit:</string>
+</resources>
